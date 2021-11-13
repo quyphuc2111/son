@@ -1,0 +1,4 @@
+.container.qly thead tr th.sorting:nth-child(6)::after{
+   content: " ";
+   /* color: #f08; */
+}
